@@ -14,3 +14,5 @@ Resource costs are indicated by [Manpower/Munitions/Fuel].
 - All dispatch tanks that are limited to one on the field have a cooldown of 240 seconds that only begins once the unit dies.
 - I&R Pathfinders can upgrade to a Looking Post Kit [80/80/80]. The Looking Post can deploy like to the Major's retreat point and it double's th unit's sight range, but leaves it extremely exposed.
 - Renamed all base rifleman infantry units and some engineers for comedic effect.
+- Sturmpioneers lose 1 man in the squad. Cost is still the same [240/0/0]. Regains that man at Vet 1. Vet 1 is earned very quickly. Gains 1 extra man at Vet 5.
+- Penals can upgrade to a PTRS 41 AT Rifle [0/50/0].
