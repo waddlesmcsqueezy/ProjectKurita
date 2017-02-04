@@ -1,5 +1,5 @@
 # ProjectKurita
-A modification for company of heroes
+Project Kurita is a modification for Company of Heroes 2 that aims to change and remix the game so that players will have a fresh new experience to try when using the mod. This mod does not intend to be taken as a serious competitive mod, but is not going to be and unbalanced mess. We will attempt to make more viable and fun to use unit without breaking balance.
 
 ## Changes
 Resource costs are indicated by [Manpower/Munitions/Fuel].
