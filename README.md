@@ -20,7 +20,7 @@ Resource costs are indicated by [Manpower/Munitions/Fuel].
 - All dispatch tanks that are limited to one on the field have a cooldown of 240 seconds that only begins once the unit dies.
 
 ### Soviet Changes
-- ISU-152, IS-2, SU-85, KV-1/2/8, T-70 have all received the ability to ram at 20% HP [Free].
+- ISU-152, IS-2, SU-85, KV-1/2/8, T-70 have all received the "All is Lost" ram ability at 20% HP [Free].
 - Penals can upgrade to a PTRS 41 AT Rifle [0/50/0]. 
 
 ### OKW Changes
