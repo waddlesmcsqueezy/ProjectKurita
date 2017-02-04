@@ -5,7 +5,7 @@ Project Kurita is a modification for Company of Heroes 2 that aims to change and
 Resource costs are indicated by [Manpower/Munitions/Fuel].
 ### Version 1.1 - 2/3/17
 - Added the StuH 42 tank destroyer [300/0/110] for the Wehrmacht Ostheer. It has the standard StuG III model but fires a 105mm howitzer and is more expensive. Hasn't been properly balanced yet. It can be made in the Support Armor Korps along with the PZ.IV/StuG III etc.
-- Added Knight's Cross Holders [420/0/0] for OKW. Very powerful squad of 3 officers that bear the Knights Cross medal with very good veterancies. Lacks good utility. Detailed veterancies coming soon™.
+- Added Knight's Cross Holders [420/0/0] for OKW. Very powerful squad of 3 officers that bear the Knights Cross medal with very good veterancies. Lacks good utility. Detailed veterancies coming soon™. Can be built in the Schwerer Panzer HQ. Will likely be changes to the Mechanized HQ.
 - M8 Greyhound now has the M20 Utility Car smoke discharge ability. Creates a smoke cloud at the center of the vehicle.
 
 ### Version 1.0 - 1/29/17
