@@ -6,6 +6,20 @@ You can submit your suggestions [Here](https://ian265.typeform.com/to/ECqpVg)
 
 # Changelog
 Resource costs are indicated by [Manpower/Munitions/Fuel].
+## Version 1.2 - 2/15/17
+
+### Ostheer Changes
+- The Panzer V "Panther" has had it's armor nerfed by 20 from 320 to 300, but it's health was buffed by 30 from 800 to 830 and its accuracy buffed by roughly 10% at all ranges. This hopefully will encourage more sniping from players and make it more vulnerable to soviet frontline tanks.
+- The StuG III G's health was nerfed by 80 from 560 to 480, to have the same effects as the Panther. The range may be buffed, but as of now, it seems balanced.
+
+### USF Changes
+- Added an M4 "Crocodile" Sherman [320/0/100]. This unit has the same flamethrower as the Churchill "Crocodile", however it is slower than the standard Sherman, and is weaker with NO MAIN GUN. This unit is made at the Armor Company.
+- Renamed a unit with a name that rhymes with "Deep" and "Amber Trance".
+
+### British Changes
+- Added an M3 "Satan" Stuart tank [265/0/85]. This unit has the same flamethrower as the Churchill "Crocodile", however it is slower than the standard Stuart, and is weaker with NO MAIN GUN. This unit is made at the Platoon Command Post. This unit may be changed at a later date to have a different flamethrower, as I feel that the Churchill flamethrower is a bit too powerful for this unit. It is however, extremely weak.
+- Gave the AEC MK. III the White Phosphorus Shell [0/30/0] ability, similar to the cromwell smoke shell. Has a 15 second cooldown.
+
 ## Version 1.1 - 2/3/17
 
 ### Ostheer Changes
@@ -13,6 +27,7 @@ Resource costs are indicated by [Manpower/Munitions/Fuel].
 
 ### OKW Changes
 - Added Knight's Cross Holders [420/0/0] for OKW. Very powerful squad of 3 officers that bear the Knights Cross medal with very good veterancies. Lacks good utility. Detailed veterancies coming soon™. Can be built in the Schwerer Panzer HQ. Will likely be changed to the Mechanized HQ.
+- OKW SwS HQ Buildings have been given the self destruct ability again. They DO NOT get a replacement if you use this ability.
 
 ### USF Changes
 - M8 Greyhound now has the M20 Utility Car smoke discharge ability. Creates a smoke cloud at the center of the vehicle.
