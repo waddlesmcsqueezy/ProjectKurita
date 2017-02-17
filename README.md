@@ -36,6 +36,7 @@ Resource costs are indicated by [Manpower/Munitions/Fuel].
 
 ### General Changes
 - All dispatch tanks that are limited to one on the field have a cooldown of 240 seconds that only begins once the unit dies.
+- Renamed a ton of units for comedic effect.
 
 ### Soviet Changes
 - ISU-152, IS-2, SU-85, KV-1/2/8, T-70 have all received the "All is Lost" ram ability at 20% HP [Free].
@@ -47,4 +48,3 @@ Resource costs are indicated by [Manpower/Munitions/Fuel].
 
 ### USF Changes
 - I&R Pathfinders can upgrade to a Looking Post Kit [80/80/80]. The Looking Post can deploy like to the Major's retreat point and it double's the unit's sight range, but leaves it extremely exposed.
-- Renamed all base rifleman infantry units and some engineers for comedic effect.
