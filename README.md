@@ -18,7 +18,7 @@ Resource costs are indicated by [Manpower/Munitions/Fuel].
 
 ### USF Changes
 - Added an M4 "Crocodile" Sherman [320/0/100]. This unit has the same flamethrower as the Churchill "Crocodile", however it is slower than the standard Sherman, and is weaker with NO MAIN GUN. This unit is made at the Armor Company.
-- Renamed a unit with a name that rhymes with "Deep" and "Amber Trance".
+- Renamed a unit with a name that rhymes with "Deep" and another that rhymes with "Amber Trance".
 
 ### British Changes
 - Added an M3 "Satan" Stuart tank [265/0/85]. This unit has the same flamethrower as the Churchill "Crocodile", however it is slower than the standard Stuart, and is weaker with NO MAIN GUN. This unit is made at the Platoon Command Post. This unit may be changed at a later date to have a different flamethrower, as I feel that the Churchill flamethrower is a bit too powerful for this unit. It is however, extremely weak.
