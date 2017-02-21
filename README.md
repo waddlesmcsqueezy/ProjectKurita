@@ -32,6 +32,11 @@ Resource costs are indicated by [Manpower/Munitions/Fuel].
 ### USF Changes
 - M8 Greyhound now has the M20 Utility Car smoke discharge ability. Creates a smoke cloud at the center of the vehicle.
 
+#### Known Issues
+
+- KCH's grenade requires Battlephase 1, which cannot be obtained as OKW.
+- Flamethrower tanks have no animation for firing. As such, flames just seem to appear on the ground. The turrets also dont seem to function. This is likely not fixable, due to the fact that the Sherman and Stuart do not have animation states for flamethrowers.
+
 ## Version 1.0 - 1/29/17
 
 ### General Changes
