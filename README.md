@@ -14,7 +14,7 @@ Resource costs are indicated by [Manpower/Munitions/Fuel].
 ## Version 1.3 - 2/22/17 - THE BRITISH OVERHAUL
 
 ### British Changes
-- Welcome to the new faction UKF players! It may take some time to come accustomed to the faction, but it is not much different from the original. The Platoon CP has been renamed to the Royal Engineer HQ, and the Company CP has been renamed to the Armory. The Field HQ has had the Weapon Rack moved to the Armory. The Anvil upgrade has been moved to the Royal Engineer HQ. 
+- Welcome to the new faction UKF players! It may take some time to come accustomed to the faction, but it is not much different from the original. The Platoon CP has been renamed to the Royal Engineer HQ, and the Company CP has been renamed to the Armory. The Field HQ has had the Weapon Rack moved to the Armory. The Anvil upgrade has been moved to the Royal Engineer HQ. Universal Carrier WASP requires REHQ, Vickers requires Armory. Infantry Section Pyrotechnics requires REHQ, Medkit requires Armory.
 
 (Hover over images to see description)
 
