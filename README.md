@@ -12,6 +12,12 @@ You can submit your suggestions [Here](https://ian265.typeform.com/to/ECqpVg)
 # Changelog
 Resource costs are indicated by [Manpower/Munitions/Fuel].
 
+## Version 1.3.1 - 2/22/17
+
+- Fixed UI for M3 Satan UKF Flamethrower Tank.
+- Fixed KCH Grenade.
+- Fixed Issue with Lockdown radio post spawn. (UKF Truck Lockdown Ability)
+
 ## Version 1.3 - 2/22/17 - THE BRITISH OVERHAUL
 
 ### British Changes
