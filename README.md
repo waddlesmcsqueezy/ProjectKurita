@@ -6,6 +6,7 @@ You can submit your suggestions [Here](https://ian265.typeform.com/to/ECqpVg)
 
 # Known Issues
 - ~~KCH's grenade requires Battlephase 1, which cannot be obtained as OKW.~~ FIXED
+- ~~M3 Satan UKF Flamethrower tank UI info is incorrect.~~ FIXED
 - Flamethrower tanks have no animation for firing. As such, flames just seem to appear on the ground. The turrets also dont seem to function. This is likely not fixable, due to the fact that the Sherman and Stuart do not have animation states for flamethrowers.
 
 # Changelog
