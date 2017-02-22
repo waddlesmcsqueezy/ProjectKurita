@@ -20,13 +20,13 @@ Resource costs are indicated by [Manpower/Munitions/Fuel].
 
 ![link](http://i.imgur.com/LxJsoaF.png "New Field Headquarters")
 
-![link](http://i.imgur.com/U3i5rGM.png "New Armory (Old Company CP)")
+![link](http://i.imgur.com/U3i5rGM.png "New Armory [200/0/30] (Old Company CP)")
 
-![link](http://i.imgur.com/aEUlWGE.png "New Royal Engineer HQ (Old Platoon CP")
+![link](http://i.imgur.com/aEUlWGE.png "New Royal Engineer HQ [200/0/30] (Old Platoon CP")
 
-![link](http://i.imgur.com/7buUi5m.png "Armor Company Logistics Truck (Built from Armory)")
+![link](http://i.imgur.com/7buUi5m.png "Armor Company Logistics Truck [320/0/45] (Built from Armory)")
 
-![link](http://i.imgur.com/54sipow.png "Special Weapons Logistics Truck (Built from REHQ)")
+![link](http://i.imgur.com/54sipow.png "Special Weapons Logistics Truck [280/0/20] (Built from REHQ)")
 
 ![link](http://i.imgur.com/O6ls7vK.png "Armor Company Truck Buildables")
 
