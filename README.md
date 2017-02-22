@@ -10,6 +10,11 @@ You can submit your suggestions [Here](https://ian265.typeform.com/to/ECqpVg)
 
 # Changelog
 Resource costs are indicated by [Manpower/Munitions/Fuel].
+
+## Version 1.3 - 2/22/17 - THE BRITISH OVERHAUL
+
+### British Changes
+- Welcome to the new faction UKF players! It may take some time to come accustomed to the faction, but it is not much different from the original. The Platoon CP has been renamed to the Royal Engineer HQ, and the Company CP has been renamed to the Armory. The Field HQ has had the Weapon Rack moved to the Armory. The Anvil upgrade has been moved to the Royal Engineer HQ. Pictures will be posted soon to help explain new build locations soon.
 ## Version 1.2 - 2/15/17
 
 ### Ostheer Changes
@@ -36,7 +41,7 @@ Resource costs are indicated by [Manpower/Munitions/Fuel].
 ### USF Changes
 - M8 Greyhound now has the M20 Utility Car smoke discharge ability. Creates a smoke cloud at the center of the vehicle.
 
-## Version 1.0 - 1/29/17
+## Version 1.0 - 1/29/17 - THE KING TIGER OVERHAUL
 
 ### General Changes
 - All dispatch tanks that are limited to one on the field have a cooldown of 240 seconds that only begins once the unit dies.
