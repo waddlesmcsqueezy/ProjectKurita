@@ -5,7 +5,7 @@ Project Kurita is a modification for Company of Heroes 2 that aims to change and
 You can submit your suggestions [Here](https://ian265.typeform.com/to/ECqpVg)
 
 # Known Issues
-- KCH's grenade requires Battlephase 1, which cannot be obtained as OKW.
+- ~~KCH's grenade requires Battlephase 1, which cannot be obtained as OKW.~~ FIXED
 - Flamethrower tanks have no animation for firing. As such, flames just seem to appear on the ground. The turrets also dont seem to function. This is likely not fixable, due to the fact that the Sherman and Stuart do not have animation states for flamethrowers.
 
 # Changelog
@@ -14,7 +14,26 @@ Resource costs are indicated by [Manpower/Munitions/Fuel].
 ## Version 1.3 - 2/22/17 - THE BRITISH OVERHAUL
 
 ### British Changes
-- Welcome to the new faction UKF players! It may take some time to come accustomed to the faction, but it is not much different from the original. The Platoon CP has been renamed to the Royal Engineer HQ, and the Company CP has been renamed to the Armory. The Field HQ has had the Weapon Rack moved to the Armory. The Anvil upgrade has been moved to the Royal Engineer HQ. Pictures will be posted soon to help explain new build locations soon.
+- Welcome to the new faction UKF players! It may take some time to come accustomed to the faction, but it is not much different from the original. The Platoon CP has been renamed to the Royal Engineer HQ, and the Company CP has been renamed to the Armory. The Field HQ has had the Weapon Rack moved to the Armory. The Anvil upgrade has been moved to the Royal Engineer HQ. 
+
+(Hover over images to see description)
+
+![link](http://i.imgur.com/LxJsoaF.png "New Field Headquarters")
+
+![link](http://i.imgur.com/U3i5rGM.png "New Armory (Old Company CP)")
+
+![link](http://i.imgur.com/aEUlWGE.png "New Royal Engineer HQ (Old Platoon CP")
+
+![link](http://i.imgur.com/7buUi5m.png "Armor Company Logistics Truck (Built from Armory)")
+
+![link](http://i.imgur.com/54sipow.png "Special Weapons Logistics Truck (Built from REHQ)")
+
+![link](http://i.imgur.com/O6ls7vK.png "Armor Company Truck Buildables")
+
+![link](http://i.imgur.com/qt2KMKy.png "Special Weapons Truck Buildables")
+
+![link](http://i.imgur.com/m4BUEu0.png "Lockdown Ability (Required to build units from truck)")
+
 ## Version 1.2 - 2/15/17
 
 ### Ostheer Changes
