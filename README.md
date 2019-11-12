@@ -4,6 +4,18 @@ Project Kurita is a modification for Company of Heroes 2 that aims to change and
 # Feedback
 You can submit your suggestions [Here](https://forms.gle/RVGZLpSwbqWanwHm8)
 
+# Planned Changes
+
+## Version 1.4.1
+
+- Hopefully fixing firing animations for new vehicles
+- T-34 will have skirts at vet 2 that give it more HP
+- Swapping availability of MG34/MG42 for Wehrmacht Osheer and OKW
+- Marines for USF
+- Gebirgsjäger for Wehrmacht Osheer
+- MG34 kubel for Wehrmacht Ostheer
+- SAS Commandos for UKF
+
 # Known Issues
 - ~~KCH's grenade requires Battlephase 1, which cannot be obtained as OKW.~~ FIXED
 - ~~M3 Satan UKF Flamethrower tank UI info is incorrect.~~ FIXED
@@ -71,11 +83,10 @@ Resource costs are indicated by [Manpower/Munitions/Fuel].
 
 ### General Changes
 - All dispatch tanks that are limited to one on the field have a cooldown of 240 seconds that only begins once the unit dies.
-- Renamed a ton of units for comedic effect.
 
 ### Soviet Changes
 - ISU-152, IS-2, SU-85, KV-1/2/8, T-70 have all received the "All is Lost" ram ability at 20% HP [Free].
-- Penals can upgrade to a PTRS 41 AT Rifle [0/50/0]. 
+- Penals can upgrade to a PTRS 41 AT Rifle [0/50/0]. (This got added in the official game!!!)
 
 ### OKW Changes
 - King Tiger has received a major overhaul. Now has 2 upgrade packages. Siege tactics [0/70/0] and Defense tactics [0/70/0]. Receives Siege mode at Vet 3 if it has Siege package, receives Ambush mode at Vet 3 if it has defense package. Gets a crew HE defense grenade [0/20/0] and a flare launch ability [0/40/0] with siege package, or a defensive crew smoke grenade [0/30/0] and the pintle mounted MG with Defense package. Front armor buffed from 395 to 400. Nerfed HP from 1280 to 1050. Siege mode replaces the previous Spearhead mode. Siege mode locks turret to a frontal 90 degree arc and decreases speed and mobility by 65%, but increases accuracy and grants suppression from the hull mounted MG34. Ambush mode puts the King Tiger into camoflauge and decreases speed and mobility by 65%, however, it can be detected from approximately 16m away, the same as it's own sight range. It can only enter camoflauge if it is standing still. If the King Tiger is camoflauged, it can use the "Blitzkrieg" ability which grants a large speed boost for 10 seconds. Ambush and Siege mode can be toggled on and off at any time to regain the original speed and mobility, but losing the bonuses.
