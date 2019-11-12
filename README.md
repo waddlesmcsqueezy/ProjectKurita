@@ -9,7 +9,7 @@ You can submit your suggestions [Here](https://forms.gle/RVGZLpSwbqWanwHm8)
 ## Version 1.4.1
 
 - Hopefully fixing firing animations for new vehicles
-- T-34 will have skirts at vet 2 that give it more HP
+- T-34 will have skirts at vet 2 (maybe an upgrade instead?) that give it more HP
 - Swapping availability of MG34/MG42 for Wehrmacht Osheer and OKW
 - Marines for USF
 - Gebirgsjäger for Wehrmacht Osheer
