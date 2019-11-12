@@ -15,6 +15,8 @@ You can submit your suggestions [Here](https://forms.gle/RVGZLpSwbqWanwHm8)
 - Gebirgsjäger for Wehrmacht Osheer
 - MG34 kubel for Wehrmacht Ostheer
 - SAS Commandos for UKF
+- Making Pathfinders CQC oriented
+- Rebalancing sturmpioneers again
 
 # Known Issues
 - ~~KCH's grenade requires Battlephase 1, which cannot be obtained as OKW.~~ FIXED
